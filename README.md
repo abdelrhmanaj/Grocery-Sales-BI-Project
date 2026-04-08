@@ -1,4 +1,4 @@
-# 📊 Grocery Sales Dashboard – README
+# 📊 Grocery Sales Dashboard
 
 ## 📌 Project Overview
 
