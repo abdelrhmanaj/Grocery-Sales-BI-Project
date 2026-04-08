@@ -10,7 +10,15 @@ The solution includes two main dashboards:
 * Customer & Salesperson Performance
 
 ---
+## 📸 Dashboard Preview
 
+### 🔷 Page 1 – Executive Sales Overview
+![Executive Dashboard](Abdelrhman_GroceySalesDashboard_page-0001.jpg)
+
+### 🔷 Page 2 – Customer & Salesperson Performance
+![Performance Dashboard](Abdelrhman_GroceySalesDashboard_page-0002.jpg)
+
+---
 ## 🧱 Data Model
 
 A **Single-Fact Star Schema** was implemented.
